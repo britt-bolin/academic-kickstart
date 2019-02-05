@@ -28,7 +28,7 @@ interests = [
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD Candidate in Political Science"
-  institution = "University of Mannheim"
+  institution = "Graduate School of Economic and Social Sciences, University of Mannheim"
 
 [[education.courses]]
   course = "M.A. in Political Science"
