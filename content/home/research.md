@@ -14,7 +14,9 @@ weight = 20
 
 +++
 
-Gender Quotas and the Path to Power: Evidence from Italy
+## Work in Progress:
+
+**Gender Quotas and the Path to Power: Evidence from Italy**
 
 Power in the Post-Conflict Period: The Effect of Armed Conflict on Women’s Political Leadership Positions (with Cosima Meyer)
 
