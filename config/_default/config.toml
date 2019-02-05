@@ -7,6 +7,9 @@
 # Title of your site
 title = "Britt Bolin"
 
+#Color theme
+color_theme = "ocean"
+
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
 baseurl = "/"
