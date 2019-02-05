@@ -9,7 +9,7 @@ day_night = false
 
 # Font style.
 #   Choose from `default`, `classic`, or `playfair`.
-font = "playfair"
+font = "classic"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -43,21 +43,19 @@ privacy_pack = false
 #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
 date_format = "Jan 2, 2006"
 #   Examples: "3:04 pm" or "15:04"
-time_format = "3:04 PM"
+time_format = "15:04 PM"
 
 ############################
 ## Contact Widget setup   ##
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "test@example.org"
-phone = "888 888 88 88"
-address = "Building 1 Room 1, Stanford University, California, 90210, USA"
+email = "bbolin@mail.uni-mannheim.de"
+phone = "+49 (0)621 181 2418"
+address = "A5, 6 Room B301, D-68159 Mannheim"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday 10:00 to 13:00<br>
-                  Wednesday 09:00 to 10:00<br>
-                  Otherwise email to book an appointment"""
+office_hours = "Wednesdays 10:00-11:00 or by appointment"
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -89,9 +87,9 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 0
 map_api_key = ""
-latitude = "37.4275"
-longitude = "-122.1697"
-zoom = 15
+latitude = ""
+longitude = ""
+zoom = 
 
 ############################
 ## Plugins                ##
