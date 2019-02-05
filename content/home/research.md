@@ -13,7 +13,6 @@ subtitle = ""
 weight = 20
 
 +++
-
 ## Work in Progress:
 
 * **Gender Quotas and the Path to Power: Evidence from Italy**
