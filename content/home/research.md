@@ -12,8 +12,7 @@ subtitle = ""
 # Order that this section will appear in.
 weight = 20
 
-+++
-## Work in Progress:
++++  ## Work in Progress:
 
 * **Gender Quotas and the Path to Power: Evidence from Italy**
 
