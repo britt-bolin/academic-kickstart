@@ -13,7 +13,12 @@ subtitle = ""
 weight = 30
 
 +++
+I teach basic and advanced undergraduate seminars in comparative politics at the University of Mannheim. Courses I have taught include:
 
-This is an example of using the *custom* widget to create your own homepage section.
+* Women in Politics (advanced undergraduate seminar, spring 2019)
 
-To remove this section, either delete `content/home/teaching.md` or edit the frontmatter of the file to deactivate the widget by setting `active = false`.
+* Gender and Policy in Comparative Perspective (undergraduate proseminar, spring 2018)
+
+* Comparative Political Institutions (undergraduate proseminar, spring 2017)
+
+I am also the recipient of the Center for Doctoral Studies in the Social Sciences' (CDSS) 2018 Teaching Award.
