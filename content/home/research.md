@@ -16,10 +16,10 @@ weight = 20
 
 ## Work in Progress:
 
-**Gender Quotas and the Path to Power: Evidence from Italy**
+* **Gender Quotas and the Path to Power: Evidence from Italy**
 
-Power in the Post-Conflict Period: The Effect of Armed Conflict on Women’s Political Leadership Positions (with Cosima Meyer)
+* **Power in the Post-Conflict Period: The Effect of Armed Conflict on Women’s Political Leadership Positions** (with Cosima Meyer)
 
-Why Do Women Speak Less? Disentangling Gender Differences in European Parliament Speechmaking (with Verena Kunz)
+* **Why Do Women Speak Less? Disentangling Gender Differences in European Parliament Speechmaking** (with Verena Kunz)
 
 
