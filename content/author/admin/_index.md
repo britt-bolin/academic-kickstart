@@ -22,13 +22,14 @@ email = ""
 interests = [
   "Women and politics",
   "Political representation",
-  "Quantitative Methods"
+  "Quantitative methods"
 ]
 
 # List qualifications (such as academic degrees)
 [[education.courses]]
   course = "PhD Candidate in Political Science"
-  institution = "Graduate School of Economic and Social Sciences, University of Mannheim"
+  institution = "Graduate School of Economic and Social Sciences,"
+  institution = "University of Mannheim"
 
 [[education.courses]]
   course = "M.A. in Political Science"
