@@ -15,10 +15,10 @@ weight = 30
 +++
 I teach basic and advanced undergraduate seminars in comparative politics at the University of Mannheim. 
 
-* Women in Politics (advanced undergraduate seminar, spring 2019)
+* **Women in Politics** (advanced undergraduate seminar, spring 2019)
 
-* Gender and Policy in Comparative Perspective (undergraduate proseminar, spring 2018)
+* **Gender and Policy in Comparative Perspective** (undergraduate proseminar, spring 2018)
 
-* Comparative Political Institutions (undergraduate proseminar, spring 2017)
+* **Comparative Political Institutions** (undergraduate proseminar, spring 2017)
 
 I am also the recipient of the Center for Doctoral Studies in the Social Sciences' (CDSS) 2018 Teaching Award.
