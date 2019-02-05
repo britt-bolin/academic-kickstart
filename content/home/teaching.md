@@ -13,7 +13,7 @@ subtitle = ""
 weight = 30
 
 +++
-I teach basic and advanced undergraduate seminars in comparative politics at the University of Mannheim. Courses I have taught include:
+I teach basic and advanced undergraduate seminars in comparative politics at the University of Mannheim. 
 
 * Women in Politics (advanced undergraduate seminar, spring 2019)
 
