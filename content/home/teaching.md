@@ -21,4 +21,4 @@ I teach basic and advanced undergraduate seminars in comparative politics at the
 
 * **Comparative Political Institutions** (undergraduate proseminar, spring 2017)
 
-I am also the recipient of the Center for Doctoral Studies in the Social Sciences' (CDSS) 2018 Teaching Award.
+I received the 2018 Teaching Award from the Center for Doctoral Studies in the Social Sciences (CDSS).
