@@ -14,6 +14,10 @@ weight = 20
 
 +++
 
-This is an example of using the *custom* widget to create your own homepage section.
+Gender Quotas and the Path to Power: Evidence from Italy
+
+Power in the Post-Conflict Period: The Effect of Armed Conflict on Women’s Political Leadership Positions (with Cosima Meyer)
+
+Why Do Women Speak Less? Disentangling Gender Differences in European Parliament Speechmaking (with Verena Kunz)
 
 
