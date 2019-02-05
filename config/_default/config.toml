@@ -8,7 +8,7 @@
 title = "Britt Bolin"
 
 #Color theme
-color_theme = "ocean"
+color_theme = "ocean" 
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
@@ -16,7 +16,7 @@ baseurl = "/"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`.
-copyright = "`&copy;`"
+copyright = "2019 Britt Bolin"
 
 # Enable analytics by entering your Google Analytics tracking ID
 googleAnalytics = ""
