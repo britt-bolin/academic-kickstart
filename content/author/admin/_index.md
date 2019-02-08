@@ -50,11 +50,6 @@ interests = [
   icon_pack = "fas"
   link = "mailto:bbolin@mail.uni-mannheim.de"  
   
-  [[social]]
-  icon = "github"
-  icon_pack = "fab"
-  link = "https://github.com/britt-bolin"
-  
  [[social]]
   icon = "linkedin"
   icon_pack = "fab"
