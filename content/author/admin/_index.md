@@ -33,12 +33,12 @@ interests = [
 [[education.courses]]
   course = "M.A. in Political Science"
   institution = "University of Mannheim"
-  year = 2016
+  # year = 2016
 
 [[education.courses]]
   course = "B.A. in International Affairs"
   institution = "The George Washington University"
-  year = 2009
+  # year = 2009
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
