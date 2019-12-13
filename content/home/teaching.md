@@ -15,6 +15,8 @@ weight = 30
 +++
 I teach basic and advanced undergraduate seminars in comparative politics at the University of Mannheim. 
 
+* **Political Economy of Gender** (advanced undergraduate seminar, spring 2020)
+
 * **Women in Politics** (advanced undergraduate seminar, spring 2019)
 
 * **Gender and Policy in Comparative Perspective** (undergraduate proseminar, spring 2018)
