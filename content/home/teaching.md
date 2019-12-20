@@ -13,7 +13,7 @@ subtitle = ""
 weight = 30
 
 +++
-I teach basic and advanced undergraduate seminars in comparative politics at the University of Mannheim. 
+I teach introductory and advanced undergraduate seminars in comparative politics at the University of Mannheim. 
 
 * **Political Economy of Gender** (advanced undergraduate seminar, spring 2020)
 
