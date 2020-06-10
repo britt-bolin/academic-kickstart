@@ -25,4 +25,4 @@ I teach introductory and advanced undergraduate seminars in comparative politics
 
 * **Comparative Political Institutions** (introductory undergraduate seminar, spring 2017)
 
-I received the 2018 Teaching Award from the Center for Doctoral Studies in the Social Sciences (CDSS).
+I received the 2018 Teaching Award from the Center for Doctoral Studies in the Social Sciences (CDSS) at the University of Mannheim.
