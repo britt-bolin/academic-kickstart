@@ -21,8 +21,8 @@ I teach introductory and advanced undergraduate seminars in comparative politics
 
 * **Women in Politics** (advanced undergraduate seminar, spring 2019)
 
-* **Gender and Policy in Comparative Perspective** (undergraduate proseminar, spring 2018)
+* **Gender and Policy in Comparative Perspective** (introductory undergraduate seminar, spring 2018)
 
-* **Comparative Political Institutions** (undergraduate proseminar, spring 2017)
+* **Comparative Political Institutions** (introductory undergraduate seminar, spring 2017)
 
 I received the 2018 Teaching Award from the Center for Doctoral Studies in the Social Sciences (CDSS).
