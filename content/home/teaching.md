@@ -13,7 +13,7 @@ subtitle = ""
 weight = 30
 
 +++
-I teach introductory and advanced undergraduate seminars in comparative politics and international relations at the University of Mannheim. Syllabi and teaching materials available upon request.
+I teach introductory and advanced undergraduate seminars in comparative politics and international relations at the University of Mannheim. Syllabi and teaching materials are available upon request.
 
 * **International Political Economy** (advanced undergraduate seminar, fall 2020)
 
