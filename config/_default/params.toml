@@ -58,7 +58,7 @@ address = "A5, 6 Room B301, D-68159 Mannheim"
 office_hours = "Tuesdays 14:00-15:00 or by appointment"
 
 # Add optional link to book an appointment
-appointment_url = ""
+# appointment_url = ""
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
