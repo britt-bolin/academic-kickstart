@@ -20,9 +20,9 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
+  "Political economy",
   "Women in politics",
   "Leadership and representation",
-  "Political economy",
   "Gender economics",
   "Quantitative methods and causal inference"
 ]
