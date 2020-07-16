@@ -20,9 +20,12 @@ email = ""
 
 # List (academic) interests or hobbies
 interests = [
-  "Women and politics",
-  "Political leadership and representation",
-  "Quantitative methods"
+  "Women in politics",
+  "Leadership and representation",
+  "Public policy analysis",
+  "Political economy",
+  "Gender economics",
+  "Quantitative methods and causal inference"
 ]
 
 # List qualifications (such as academic degrees)
