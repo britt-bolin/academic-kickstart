@@ -80,5 +80,8 @@ interests = [
 
 I am a PhD candidate in political science at the [Graduate School of Economic and Social Sciences](https://gess.uni-mannheim.de/) and a research associate and lecturer at the [Chair of Political Economy](http://polecon.sowi.uni-mannheim.de/) at the University of Mannheim. 
 
-My research focuses broadly on comparative politics, political institutions, political economy, and public policy analysis, as well as quantitative research methods. Specific interests include gender and politics, women in leadership positions, and gender quotas and political representation. My dissertation looks at women's access to political leadership positions.
+I specialize in comparative politics, political economy, and public policy analysis, with a substantive focus on women in politics, gender economics, and leadership and representation. I use empirical quantitative and computational methods, with a particular interest in causal inference. My dissertation project analyzes gender quotas and women’s access to political leadership positions.
 
+My research has been supported by the [Foundation of German Business (SDW)](https://www.sdw.org/), the [German Academic Exchange Service (DAAD)](https://www.daad.de/de/), and the [German Research Foundation (DFG)](https://www.dfg.de/), among others.
+
+Prior to graduate school, I spent several years working in diplomacy, public policy, government, and strategy consulting in both Germany and the United States.
