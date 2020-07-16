@@ -15,10 +15,12 @@ weight = 20
 +++  
 ## Work in Progress:
 
-* **Gender Quotas and the Path to Power: Evidence from Italy**
+* **Gender Quotas and the Path to Power (dissertation project)**
 
-* **Power in the Post-Conflict Period: The Effect of Armed Conflict on Women’s Political Leadership Positions** (with Cosima Meyer)
+* **Power in the Post-Conflict Period: The Effect of Armed Conflict and Gender Quotas on Women in Political Leadership Positions** (with Cosima Meyer)
 
 * **Why Do Women Speak Less? Disentangling Gender Differences in European Parliament Speechmaking** (with Verena Kunz)
+
+* **The Impact of (Failed) Gender Quotas on Legislative Behavior Over Time** (with Thiago Nascimento da Silva and Iñaki Sagarzazu)
 
 
