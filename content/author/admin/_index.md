@@ -22,7 +22,6 @@ email = ""
 interests = [
   "Women in politics",
   "Leadership and representation",
-  "Public policy analysis",
   "Political economy",
   "Gender economics",
   "Quantitative methods and causal inference"
