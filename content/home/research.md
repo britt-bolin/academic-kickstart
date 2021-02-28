@@ -17,7 +17,7 @@ weight = 20
 
 * **Gender Quotas and the Path to Power (dissertation project)**
 
-* **Power in the Post-Conflict Period: The Effect of Armed Conflict and Gender Quotas on Women in Political Leadership Positions** (with Cosima Meyer)
+* **Power in the Post-Conflict Period: The Effect of Armed Conflict and Gender Quotas on Women in Political Leadership Positions** (with Cosima Meyer, under review)
 
 * **Why Do Women Speak Less? Disentangling Gender Differences in European Parliament Speechmaking** (with Verena Kunz)
 
